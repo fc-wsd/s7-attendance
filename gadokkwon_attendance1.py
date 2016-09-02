@@ -9,6 +9,7 @@ nowDatetime = now.strftime('%Y-%m-%d %H:%M:%S')
 students = ['장동호','신성욱','임재민','권혁기','김재국']
 
 
+
 attendances = {};
 
 

@@ -19,6 +19,7 @@ class Student():
 
 
 
+
 class Attendance(Student):
 
 	def attend(self):
